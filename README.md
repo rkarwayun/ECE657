@@ -1,2 +1,2 @@
 # ECE657
-Code for Assignments and Project done for ECE-657
+Code for Assignments done for ECE-657.
